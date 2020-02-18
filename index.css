@@ -33,18 +33,18 @@ h1 {
 
 a {
     display: inline-block;
-    color: black;
+    color: white;
     text-decoration: none;
     font-weight: bold;
     border-radius: 5em;
     font-size: .8em;
-    background: #e9e9e9;
+    background: #00b200;
     padding: .7em 2em;
     margin-top: auto;
 }
 .obligation {
     text-align: center;
-    color: white;
+    color: #e5ffe5;
     font-weight: bold;
     margin-bottom: 0;
 }
